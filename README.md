@@ -2,9 +2,6 @@
 ### 🏆 CodSoft Web Development Internship Project
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://codsoft-task1-portfolio.netlify.app/)
-[![GitHub Stars](https://img.shields.io/github/stars/MohammedAli-23CSE/portfolio?style=social)](https://github.com/MohammedAli-23CSE/portfolio)
-
-![Portfolio Screenshot](./assets/images/portfolio-screenshot.png)
 
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -52,10 +49,12 @@ Patient records & appointment system
 
 ## 🌐 Connect With Me
 <div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedali-a)(https://www.linkedin.com/in/mohammed-ali-a-661525289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedali-a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAli-23CSE)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAli-23CSE)](https://github.com/amohammedali/CODESOFT.git)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedali.23cse@sonatech.ac.in)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://codsoft-task1-portfolio.netlify.app/)
 
 </div>
