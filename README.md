@@ -1,6 +1,6 @@
 # CODSOFT
-# 💻 Mohammed Ali A - Portfolio Website [![GitHub Stars](https://img.shields.io/github/stars//portfolio?style=social)](https://codsoft-task1-portfolio.netlify.app/)
-
+# 💻 Mohammed Ali A - Portfolio Website [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://codsoft-task1-portfolio.netlify.app/)
+[![GitHub Stars](https://img.shields.io/github/stars/MohammedAli-23CSE/portfolio?style=social)](https://github.com/MohammedAli-23CSE/portfolio)
 ![Portfolio Showcase](https://user-images.githubusercontent.com/your-image-id/portfolio-screenshot.png) *<!-- Upload screenshot to GitHub and replace URL -->*
 
 🌟 **A dynamic portfolio showcasing my journey as a Computer Science Engineer & Full Stack Developer**  
