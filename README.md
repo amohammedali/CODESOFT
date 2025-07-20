@@ -1,4 +1,5 @@
-# 💻 Mohammed Ali A - Portfolio Website [![GitHub Stars](https://img.shields.io/github/stars/yourusername/portfolio?style=social)](https://github.com/yourusername/portfolio)
+# CODSOFT
+# 💻 Mohammed Ali A - Portfolio Website [![GitHub Stars](https://img.shields.io/github/stars//portfolio?style=social)]( https://github.com/amohammedali/CODESOFT/tree/Task1-Portfolio )
 
 ![Portfolio Showcase](https://user-images.githubusercontent.com/your-image-id/portfolio-screenshot.png) *<!-- Upload screenshot to GitHub and replace URL -->*
 
