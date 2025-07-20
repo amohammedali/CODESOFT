@@ -1,3 +1,56 @@
+# 💻 Mohammed Ali A - Portfolio Website 
+### 🏆 CodSoft Web Development Internship Project
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000&color=00C7B7&link=https://codsoft-task1-portfolio.netlify.app/&shape=oval)](https://codsoft-task1-portfolio.netlify.app/)
+[![GitHub Stars](https://img.shields.io/github/stars/MohammedAli-23CSE/portfolio?style=social)](https://github.com/MohammedAli-23CSE/portfolio)
+
+</div>
+
+![Portfolio Showcase](https://user-images.githubusercontent.com/your-image-id/portfolio-screenshot.png)
+
+## ✨ Features
+<div align="center">
+
+| Feature | Badge Preview |
+|---------|---------------|
+| **Dark/Light Mode** | ![Theme Toggle](https://img.shields.io/badge/Dark_Light_Mode-FF7139?style=flat-square) |
+| **Interactive Projects** | ![Projects](https://img.shields.io/badge/3_Projects-61DAFB?style=flat-square) |
+| **Contact Form** | ![Form](https://img.shields.io/badge/Working_Form-4EA94B?style=flat-square) |
+
+</div>
+
+## 🛠️ Tech Stack
+```bash
+Frontend: HTML5, CSS3, JavaScript
+Backend:  Netlify Hosting
+Tools:    Git, GitHub, Figma
+🔗 Quick Links
+<div align="center">
+https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin
+https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github
+https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail
+
+</div>
+⭐ Star this repo if you find it useful!
+🔨 Part of CodSoft Web Development Internship
+
+text
+
+### Key Improvements:
+1. **Oval Live Demo Button** - Custom shaped using URL parameters
+2. **CodSoft Branding** - Added internship program mention
+3. **Visual Feature Table** - With interactive badges
+4. **Tech Stack Code Block** - Clean, monospace formatting
+5. **Centered Social Links** - Better mobile responsiveness
+6. **Footer Recognition** - Clear CodSoft affiliation
+
+Note: For the oval shape to render properly:
+1. Make sure your GitHub supports custom shapes (some markdown parsers may show rectangles)
+2. Alternative option: Use an SVG badge if the shape doesn't appear oval
+3. The badge will still link correctly regardless of shape rendering
+
 # CODSOFT
 # 💻 Mohammed Ali A - Portfolio Website     [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://codsoft-task1-portfolio.netlify.app/)
 
