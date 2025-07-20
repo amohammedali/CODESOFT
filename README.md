@@ -49,13 +49,14 @@ Patient records & appointment system
 
 ## 🌐 Connect With Me
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedali-a)(https://www.linkedin.com/in/mohammed-ali-a-661525289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+[![LinkedIn](https://img.shields.io/badge/🚀_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ali-a-661525289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
   
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAli-23CSE)](https://github.com/amohammedali/CODESOFT.git)
+[![GitHub](https://img.shields.io/badge/🚀_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amohammedali/CODESOFT)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedali.23cse@sonatech.ac.in)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedali.23cse@sonatech.ac.in)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://codsoft-task1-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/💼_Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://codsoft-task1-portfolio.netlify.app/)
 
 </div>
 
