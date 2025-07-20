@@ -31,13 +31,14 @@ A modern, responsive portfolio website showcasing my projects, skills, and exper
 ## 📁 Project Structure
 portfolio/
 ├── index.html # Main HTML file
+
 ├── styles/ # CSS styles
 │ └── style.css
 ├── scripts/ # JavaScript files
 │ └── script.js
 ├── assets/ # Images and icons
-│ ├── images/
-│ └── icons/
+│ └── images/
+
 └── README.md # This file
 
 ## 🎯 Key Projects Showcased
